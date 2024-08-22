@@ -3,7 +3,7 @@
 I'm Ed, this is my school account.
 For my personal account go to https://github.com/Tissousle
 
-##Currently I do not know how to write in .md files
+## Currently I do not know how to write in .md files
 
 <!--
 **edwardstuter/edwardstuter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
